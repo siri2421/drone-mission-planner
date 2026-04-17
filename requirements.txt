@@ -1,0 +1,8 @@
+"google-cloud-aiplatform>=1.148.0",
+"google-adk[a2a]==1.30.0",
+"a2a-sdk==0.3.26",
+"fastmcp>=2.0.0",
+"httpx",
+"requests",
+"google-auth>=2.29.0",
+"google-cloud-secret-manager"
